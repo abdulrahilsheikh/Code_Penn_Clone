@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Code_Penn_Clone/static/css/main.bbcd72a9.css",
+    "main.js": "/Code_Penn_Clone/static/js/main.cdcb7a75.js",
+    "index.html": "/Code_Penn_Clone/index.html",
+    "main.bbcd72a9.css.map": "/Code_Penn_Clone/static/css/main.bbcd72a9.css.map",
+    "main.cdcb7a75.js.map": "/Code_Penn_Clone/static/js/main.cdcb7a75.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bbcd72a9.css",
+    "static/js/main.cdcb7a75.js"
+  ]
+}
